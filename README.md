@@ -84,11 +84,10 @@ cinnamonExport-sarima-ann-fuzzyTimeSeries/
 ├── notebooks/
 │   ├── modeling.ipynb
 │   └── sarima_analysis.Rmd
-├── figures/
-├── results/
 ├── .gitignore
 └── README.md
 ```
+
 
 
 
